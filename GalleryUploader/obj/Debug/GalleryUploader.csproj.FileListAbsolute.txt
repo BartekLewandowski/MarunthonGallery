@@ -1,0 +1,10 @@
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\bin\Debug\GalleryUploader.exe.config
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\bin\Debug\GalleryUploader.exe
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\bin\Debug\GalleryUploader.pdb
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\obj\Debug\GalleryUploader.csprojResolveAssemblyReference.cache
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\obj\Debug\GalleryUploader.Form1.resources
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\obj\Debug\GalleryUploader.Properties.Resources.resources
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\obj\Debug\GalleryUploader.csproj.GenerateResource.Cache
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\obj\Debug\GalleryUploader.exe
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\obj\Debug\GalleryUploader.pdb
+D:\_work\SportEvents\Tools\GalleryUploader\GalleryUploader\obj\Debug\GalleryUploader.FormEvent.resources
